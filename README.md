@@ -1,7 +1,7 @@
 Nextjs Animated landing page
 this is a landing page to create nextjs tailwind css or framer motion
 
-Logo
+![Logo](https://i.ibb.co.com/yXrDD7q/screencapture-localhost-3000-2024-10-21-12-49-08.png)
 
 Project
 This is live link of my project
